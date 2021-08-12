@@ -135,3 +135,6 @@ alias get='git '
 alias gi='git init'
 alias githelp='md-to-pdf ~/Desktop/HowTo/GIT/git_notes.md && gio open ~/Desktop/HowTo/GIT/git_notes.pdf'
 
+
+# Created by `pipx` on 2021-08-11 13:10:05
+export PATH="$PATH:/home/wlr/.local/bin"
